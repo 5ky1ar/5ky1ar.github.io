@@ -1,0 +1,21 @@
+## Settings
+title: Skylar Dudash
+owner: "5ky1ar"
+url: "https://5ky1ar.github.io"
+baseurl: ""
+permalink: /:title/
+description: "Skylar Dudash's Personal Website"
+markdown: kramdown
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+email: "skylar@dudash.dev"
+github: "5ky1ar"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets"
+statement: "Skylar Dudash, All Rights Reserved"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
