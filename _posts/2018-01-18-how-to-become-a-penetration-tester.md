@@ -1,7 +1,7 @@
 ---
 title: How To Become A Professional Penetration Tester
 layout: post
-category: tutorial, hacking, pen-testing
+category: pentesting, hacking, tutorial
 date: 2018-01-18
 ---
 
