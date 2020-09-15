@@ -28,7 +28,7 @@ And even looking at it more closely, it looks like her "girlfriend" is pretendin
 ## Mr. Obvious's YouTube Video
 One of my favorite YouTubers [Mr. Obvious](https://www.youtube.com/channel/UCyznn3etx_6fSK7576JSrKg) made a video: [The COVID-19 Quarantine is Turning Lesbian Women Straight](https://invidio.us/watch?v=RmwC2id5zdY)
 
-<iframe width="560" height="315" src="https://invidio.us/embed/RmwC2id5zdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://invidious.snopyta.org/embed/RmwC2id5zdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In a nutshell, the video is about a girl who was lesbian freaked about the cornavirus forcing her to quarantine herself along with her roommates. This was because she had a history with asthma and grew more insecure about the lack of support she was getting. In order to calm herself down a bit, she texted one of her roommates (male) and asked him to have a few drinks to which he agreed to. As her feed was filled with news about restraunts closing and the high death count in Italy, which made her unable to locate herself in the midst of chaos & fear. While she was drinking with him, unloading each of their anxieties about the pandemic, they ended up flirting and hooking up with each other. This made her question her sexuality on whether she was bisexual or lesbian. They ended up hooking up the next day too, which made her question whether she becoming attracted to men was to calm herself down during quarantine.
 
