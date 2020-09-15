@@ -5,7 +5,7 @@ category: python, coding, tutorial
 date: 2017-10-12
 ---
 
-<p style="text-align:center;"><img src="https://i.imgur.com/dPCbOJ6.png" alt="Python Logo"></p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/python.png" alt="Python Logo"></p>
 
 ---
 
