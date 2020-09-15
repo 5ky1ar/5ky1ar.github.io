@@ -26,7 +26,7 @@ Anyways, based from the video along and from her other TikTok videos, the only t
 And even looking at it more closely, it looks like her "girlfriend" is pretending to kiss her, like her lip is just barely above her cheek or some shit.
 
 ## Mr. Obvious's YouTube Video
-One of my favorite YouTubers [Mr. Obvious](https://www.youtube.com/channel/UCyznn3etx_6fSK7576JSrKg) made a video: [The COVID-19 Quarantine is Turning Lesbian Women Straight](https://invidio.us/watch?v=RmwC2id5zdY)
+One of my favorite YouTubers [Mr. Obvious](https://www.youtube.com/channel/UCyznn3etx_6fSK7576JSrKg) made a video: [The COVID-19 Quarantine is Turning Lesbian Women Straight](https://www.bitchute.com/video/RmwC2id5zdY/)
 
 <iframe width="560" height="315" src="https://www.bitchute.com/embed/RmwC2id5zdY/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
