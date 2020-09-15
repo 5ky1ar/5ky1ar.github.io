@@ -57,9 +57,9 @@ Dogecoin:
 ```
 D6H7ddqgueTNdG2SQsseYiVp1GPLBbHS5N
 ```
-if you want to donate in a crytocurrency not listed here, then either click [here](https://xmg-redux.github.io/donate) or click the link below
+if you want to donate in a crytocurrency not listed here, then either click [here](https://5ky1ar.github.io/donate) or click the link below
 
-[https://xmg-redux.github.io/donate](https://xmg-redux.github.io/donate)
+[https://5ky1ar.github.io/donate](https://5ky1ar.github.io/donate)
 
 # Website Theme
 for those asking for the theme, i've liked it below  
