@@ -18,25 +18,26 @@ Welcome to hell my friend, the website is still in development, so be patient
 # Social Media
 
 <ul>
-<li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/instagram.png" alt="Instagram"> <a href="https://www.instagram.com/skylar_dudash/">Instagram</a> — <a href="https://www.instagram.com/skylar_dudash/">@skylar_dudash</a></li>
-<li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/snapchat.png" alt="Snapchat"> <a href="https://snapchat.com/add/goingghetto">Snapchat</a> — <a href="https://snapchat.com/add/goingghetto">@goingghetto</a></li>
-<li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/parler.png" alt="Parler"> <a href="https://parler.com/user/5ky1ar">Parler</a> — <a href="https://parler.com/user/5ky1ar">@5ky1ar</a></li>
-<li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/mastodon.png" alt="Mastodon"> <a rel="me" href="https://mastodon.social/@5ky1ar">Mastodon</a> — <a rel="me" href="https://mastodon.social/@5ky1ar">@5ky1ar</a></li>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/instagram.png" alt="Instagram"> <a href="https://www.instagram.com/skylar_dudash/">Instagram</a> — <a href="https://www.instagram.com/skylar_dudash/">@skylar_dudash</a></li></p>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/snapchat.png" alt="Snapchat"> <a href="https://snapchat.com/add/goingghetto">Snapchat</a> — <a href="https://snapchat.com/add/goingghetto">@goingghetto</a></li></p>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/parler.png" alt="Parler"> <a href="https://parler.com/user/5ky1ar">Parler</a> — <a href="https://parler.com/user/5ky1ar">@5ky1ar</a></li></p>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/gab.png" alt=Gab> <a href="https://gab.com/5ky1ar">Gab</a> — <a href="https://gab.com/5ky1ar">@5ky1ar</a></li></p>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/mastodon.png" alt="Mastodon"> <a rel="me" href="https://mastodon.social/@5ky1ar">Mastodon</a> — <a rel="me" href="https://mastodon.social/@5ky1ar">@5ky1ar</a></li></p>
 </ul>
 
 # Cool Stuff
 
-<ul
-><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/privacytools.png" alt="PrivacyTools"> <a href="https://www.privacytools.io">PrivacyTools</a> - Encryption and tools to protect against global mass surveillance</li>
+<ul>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/privacytools.png" alt="PrivacyTools"> <a href="https://www.privacytools.io">PrivacyTools</a> - Encryption and tools to protect against global mass surveillance</li></p>
 </ul>
 
 # Donate
 if you would like to donate to help keep the website running since its not free, then feel free to below
 
 <ul>
-<li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/paypal.png" alt="PayPal"> <a href="https://paypal.me/SkylarDudash">PayPal</a> — <a href="https://paypal.me/SkylarDudash">@SkylarDudash</a></li>
-<li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/cashapp.png" alt="CashApp"> <a href="https://cash.app/$SkylarDudash">CashApp</a> — <a href="https://cash.app/$SkylarDudash">$SkylarDudash</a></li>
-<li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/venmo.png" alt="Venmo"> <a href="https://venmo.com/SkylarDudash">Venmo</a> — <a href="https://venmo.com/SkylarDudash">@SkylarDudash</a></li>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/paypal.png" alt="PayPal"> <a href="https://paypal.me/SkylarDudash">PayPal</a> — <a href="https://paypal.me/SkylarDudash">@SkylarDudash</a></li></p>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/cashapp.png" alt="CashApp"> <a href="https://cash.app/$SkylarDudash">CashApp</a> — <a href="https://cash.app/$SkylarDudash">$SkylarDudash</a></li></p>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/venmo.png" alt="Venmo"> <a href="https://venmo.com/SkylarDudash">Venmo</a> — <a href="https://venmo.com/SkylarDudash">@SkylarDudash</a></li></p>
 </ul>
 
 # Donate Using Crytocurrency
