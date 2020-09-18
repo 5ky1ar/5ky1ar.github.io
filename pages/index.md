@@ -21,8 +21,9 @@ Welcome to hell my friend, the website is still in development, so be patient
 <p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/instagram.png" alt="Instagram"> <a href="https://www.instagram.com/skylar_dudash/">Instagram</a> — <a href="https://www.instagram.com/skylar_dudash/">@skylar_dudash</a></li></p>
 <p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/snapchat.png" alt="Snapchat"> <a href="https://snapchat.com/add/goingghetto">Snapchat</a> — <a href="https://snapchat.com/add/goingghetto">@goingghetto</a></li></p>
 <p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/parler.png" alt="Parler"> <a href="https://parler.com/user/5ky1ar">Parler</a> — <a href="https://parler.com/user/5ky1ar">@5ky1ar</a></li></p>
-<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/gab.png" alt=Gab> <a href="https://gab.com/5ky1ar">Gab</a> — <a href="https://gab.com/5ky1ar">@5ky1ar</a></li></p>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/gab.png" alt="Gab"> <a href="https://gab.com/5ky1ar">Gab</a> — <a href="https://gab.com/5ky1ar">@5ky1ar</a></li></p>
 <p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/mastodon.png" alt="Mastodon"> <a rel="me" href="https://mastodon.social/@5ky1ar">Mastodon</a> — <a rel="me" href="https://mastodon.social/@5ky1ar">@5ky1ar</a></li></p>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/tiblar.png" alt="Tiblar"> <a href="https://tiblar.com/Skylar">Tiblar</a> — <a href="https://tiblar.com/Skylar">@Skylar</a></li></p>
 </ul>
 
 # Cool Stuff
