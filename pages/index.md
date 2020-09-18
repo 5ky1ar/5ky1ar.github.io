@@ -22,7 +22,6 @@ Welcome to hell my friend, the website is still in development, so be patient
 * ![Snapchat](https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/snapchat.png) [Snapchat](https://snapchat.com/add/goingghetto) — [@goingghetto](https://snapchat.com/add/goingghetto)
 
 * ![Parler](https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/parler.png) [Parler](https://parler.com/user/5ky1ar) — [@5ky1ar](https://parler.com/user/5ky1ar)
-
 <ul><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/mastodon.png" alt="Mastodon"> <a rel="me" href="https://mastodon.social/@5ky1ar">Mastodon</a> — <a rel="me" href="https://mastodon.social/@5ky1ar">@5ky1ar</a></li></ul>
 
 # Cool Stuff
