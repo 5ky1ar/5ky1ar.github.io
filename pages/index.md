@@ -74,4 +74,4 @@ for those asking for the theme, i've liked it below
 
 # Advertisements
 
-<p style="text-align:center;"><a href="https://freebitco.in/?r=38404853"><img src="https://static1.freebitco.in/banners/468x60-3.png" alt="Win Up To $200 Bitcoin Every Hour!"></a></p>
+<p style="text-align:center;"><a href="https://freebitco.in/?r=38404853"><img src="https://i.imgur.com/0A6kx1l.png" alt="Win Up To $200 Bitcoin Every Hour!"></a></p>
