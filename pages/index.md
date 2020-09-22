@@ -74,4 +74,8 @@ for those asking for the theme, i've liked it below
 
 # Advertisements
 
-<p style="text-align:center;"><a href="https://freebitco.in/?r=38404853"><img src="https://i.imgur.com/0A6kx1l.png" alt="Win Up To $200 Bitcoin Every Hour!"></a></p>
+<p style="text-align:center;">
+<a href="https://freebitco.in/?r=38404853"><img src="https://i.imgur.com/0A6kx1l.png" alt="Win Up To $200 Bitcoin Every Hour!"></a>
+<a href="https://bonusbitcoin.co/?ref=3C8AE338426E"><img src="https://i.imgur.com/bGVD0lZ.gif" alt="Recieve Up To 5000 Satoshi Every Claim!"></a>
+<a href="https://faucetpay.io/?r=620909"><img src="https://i.imgur.com/cC6LRBm.gif" alt="Recieve Instant Pay From Websites!"></a>
+</p>
