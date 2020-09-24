@@ -37,6 +37,12 @@ Welcome to hell my friend, the website is still in development, so be patient
 </ul>
 
 # Donate
+
+<p style="text-align:center;">
+<a href="https://binance.us"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/binance.jpg" alt="Binance"></a>
+<a href="https://golden-farm.biz/?r=1843043"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/goldenfarm.gif" alt="Golden Farm"></a>
+</p>
+
 if you would like to donate to help keep the website running since its not free, then feel free to below
 
 <ul>
@@ -87,3 +93,12 @@ D6H7ddqgueTNdG2SQsseYiVp1GPLBbHS5N
 if you want to donate in a crytocurrency not listed here, then either click [here](https://5ky1ar.github.io/donate) or click the link below
 
 [https://5ky1ar.github.io/donate](https://5ky1ar.github.io/donate)
+
+<p style="text-align:center;">
+<a href="https://nightmarestresser.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/nightmarestresser.gif" alt="Nightmare Stresser"></a>
+<a href="https://stresser.vip"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/stresservip.gif" alt="VIP Stresser"></a>
+<a href="https://stressftw.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/stressftw.gif" alt="Stress FTW"></a>
+<a href="https://zdstresser.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/zstresser.gif" alt="Z Stresser"></a>
+<a href="https://silentstress.wtf"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/silentstress.gif" alt="Silent Stress"></a>
+<a href="https://ovh-booter.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/ovhbooter.gif" alt="OVH Booter"></a>
+</p>
