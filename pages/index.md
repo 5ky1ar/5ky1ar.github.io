@@ -21,6 +21,11 @@ Welcome to hell my friend, the website is still in development, so be patient
 
 # Social Media
 
+<p style="text-align:center;">
+<a href="https://torguard.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/torguard.gif" alt="TorGuard VPN"></a>
+<a href="https://expressvpn.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/expressvpn.jpg" alt="Express VPN"></a>
+</p>
+
 <ul>
 <p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/instagram.png" alt="Instagram"> <a href="https://www.instagram.com/skylar_dudash/">Instagram</a> — <a href="https://www.instagram.com/skylar_dudash/">@skylar_dudash</a></li></p>
 <p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/snapchat.png" alt="Snapchat"> <a href="https://snapchat.com/add/goingghetto">Snapchat</a> — <a href="https://snapchat.com/add/goingghetto">@goingghetto</a></li></p>
