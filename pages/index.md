@@ -32,9 +32,21 @@ Welcome to hell my friend, the website is still in development, so be patient
 
 # Cool Stuff
 
+<p style="text-align:center;">
+<a href="https://ghostproject.fr"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/ghostproject.gif" alt="Ghost Project"></a>
+<a href="https://leakedsource.ru"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/leakedsource.gif" alt="Leaked Source"></a>
+<a href="https://weleakinfo.to"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/weleakinfo.gif" alt="We Leak Info"></a>
+</p>
+
 <ul>
 <p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/privacytools.png" alt="PrivacyTools"> <a href="https://www.privacytools.io">PrivacyTools</a> - Encryption and tools to protect against global mass surveillance</li></p>
 </ul>
+
+<p style="text-align:center;">
+<a href="https://api.c99.nl"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/apic99nl.gif" alt="C99's APIs"></a>
+<a href="https://toolx.in"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/toolxin.gif" alt="Leaked Source"></a>
+<a href="https://xtremefish.rs"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/xtremefish.gif" alt="Runescape Phishing Panel"></a>
+</p>
 
 # Donate
 
@@ -99,6 +111,6 @@ if you want to donate in a crytocurrency not listed here, then either click [her
 <a href="https://stresser.vip"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/stresservip.gif" alt="VIP Stresser"></a>
 <a href="https://stressftw.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/stressftw.gif" alt="Stress FTW"></a>
 <a href="https://zdstresser.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/zstresser.gif" alt="Z Stresser"></a>
-<a href="https://silentstress.wtf"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/silentstress.gif" alt="Silent Stress"></a>
+<a href="https://silentstress.wtf"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/silentstresswtf.gif" alt="Silent Stress"></a>
 <a href="https://ovh-booter.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/ovhbooter.gif" alt="OVH Booter"></a>
 </p>
