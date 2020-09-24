@@ -45,7 +45,22 @@ if you would like to donate to help keep the website running since its not free,
 <p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/venmo.png" alt="Venmo"> <a href="https://venmo.com/SkylarDudash">Venmo</a> — <a href="https://venmo.com/SkylarDudash">@SkylarDudash</a></li></p>
 </ul>
 
+<p style="text-align:center;">
+<a href="https://freebitco.in/?r=38404853"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/freebitcoin.png" alt="Win Up To $200 In Free Bitcoins Every Hour!"></a>
+<a href="https://bonusbitcoin.co/?ref=3C8AE338426E"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/bonusbitcoin.gif" alt="Recieve Up To 5000 Satoshi Every Claim!"></a>
+<a href="https://faucetpay.io/?r=620909"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/faucetpay.gif" alt="Recieve Instant Pay From Websites!"></a>
+<a href="https://bitfun.co/?ref=AAFC954070DC"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/bitfun.gif" alt="Earn Bitcoin By Playing Games!"></a>
+</p>
+
 # Donate Using Crytocurrency
+
+<p style="text-align:center;">
+<a href="https://moonbit.co.in/?ref=225B58C0B997"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/moonbtc.gif" alt="Moon Bitcoin"></a>
+<a href="https://moonbitcoin.cash/?ref=CD00A4B8C86B"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/moonbch.gif" alt="Moon Bitcoin Cash"></a>
+<a href="https://moonliteco.in/?ref=EAFA5F7E431C"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/moonltc.gif" alt="Moon Litecoin"></a>
+<a href="https://moondash.co.in/?ref=722467390EFC"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/moondash.gif" alt="Moon Dash"></a>
+</p>
+
 if you would like to donate via crytocurrency I have wallets of over 300 crytocurrencies, the most common people use are listed below, the rest are linked at the bottom
 
 Bitcoin:
@@ -71,16 +86,3 @@ D6H7ddqgueTNdG2SQsseYiVp1GPLBbHS5N
 if you want to donate in a crytocurrency not listed here, then either click [here](https://5ky1ar.github.io/donate) or click the link below
 
 [https://5ky1ar.github.io/donate](https://5ky1ar.github.io/donate)
-
-# Website Theme
-for those asking for the theme, i've liked it below  
-[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
-
-# Advertisements
-
-<p style="text-align:center;">
-<a href="https://freebitco.in/?r=38404853"><img src="https://i.imgur.com/0A6kx1l.png" alt="Win Up To $200 Bitcoin Every Hour!"></a>
-<a href="https://bonusbitcoin.co/?ref=3C8AE338426E"><img src="https://i.imgur.com/bGVD0lZ.gif" alt="Recieve Up To 5000 Satoshi Every Claim!"></a>
-<a href="https://faucetpay.io/?r=620909"><img src="https://i.imgur.com/cC6LRBm.gif" alt="Recieve Instant Pay From Websites!"></a>
-<a href="https://bitfun.co/?ref=AAFC954070DC"><img src="https://i.imgur.com/Wu8CJP6.gif" alt="Earn Bitcoin By Playing Games!"></a>
-</p>
