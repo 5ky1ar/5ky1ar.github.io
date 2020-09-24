@@ -11,6 +11,10 @@ encrypted_text: true
 permalink: /
 ---
 
+<p style="text-align:center;">
+<a href="https://hackforums.net/member.php?action=register&referrer=4821228"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/hackforums.gif" alt="HackForums - The #1 Best Hacking Forum"></a>
+</p>
+
 # Skylar Dudash's Website  
 
 Welcome to hell my friend, the website is still in development, so be patient
