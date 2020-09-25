@@ -21,9 +21,10 @@ permalink: /
 Welcome to hell my friend, the website is still in development, so be patient
 
 <p style="text-align:center;">
-<a href="https://mega.nz/aff=UXB8MCScN-s"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/meganz.png" alt="MEGA Cloud Storage"></a>
-<a href="https://torguard.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/torguard.gif" alt="TorGuard VPN"></a>
 <a href="https://expressvpn.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/expressvpn.jpg" alt="Express VPN"></a>
+<a href="https://torguard.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/torguard.gif" alt="TorGuard VPN"></a>
+<a href="https://alphavpn.co"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/alphavpn.gif" alt="TorGuard VPN"></a>
+<a href="https://mega.nz/aff=UXB8MCScN-s"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/meganz.png" alt="MEGA Cloud Storage"></a>
 <a href="https://privatealps.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/privatealps.gif" alt="Private Alps Offshore VPS Hosting"></a>
 <a href="https://bullethost.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/bullethost.gif" alt="Private Alps Offshore VPS Hosting"></a>
 </p>
@@ -74,7 +75,14 @@ if you would like to donate to help keep the website running since its not free,
 
 <p style="text-align:center;">
 <a href="https://binance.us"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/binance.jpg" alt="Binance"></a>
-<a href="https://g2a.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/g2a.jpg" alt="Golden Farm"></a>
+</p>
+<p style="text-align:center;">
+<a href="https://g2a.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/g2a.jpg" alt="G2A"></a>
+</p>
+<p style="text-align:center;">
+<a href="https://betfury.io/?r=5f6e0f8aa323cd2f0c8e114c"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/betfury.gif" alt="BetFury"></a>
+</p>
+<p style="text-align:center;">
 <a href="https://golden-farm.biz/?r=1843043"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/goldenfarm.gif" alt="Golden Farm"></a>
 </p>
 
