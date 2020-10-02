@@ -116,6 +116,7 @@ if you want to donate in a crytocurrency not listed here, then either click [her
 
 <p style="text-align:center;">
 <a href="https://freebitco.in/?r=38404853"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/freebitcoin.png" alt="Win Up To $200 In Free Bitcoins Every Hour!"></a>
+<a href="https://bitcoinker.com/?r=1KVG2dEEU9gfJNxuWu57eMtgYRDd7Acx9b"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/bitcoinker.jpg" alt="Up To 100k Satoshis Every 5 Minutes!"></a>
 <a href="https://bonusbitcoin.co/?ref=3C8AE338426E"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/bonusbitcoin.gif" alt="Recieve Up To 5000 Satoshi Every Claim!"></a>
 <a href="https://moonbit.co.in/?ref=225B58C0B997"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/moonbtc.gif" alt="Moon Bitcoin"></a>
 <a href="https://moonbitcoin.cash/?ref=CD00A4B8C86B"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/moonbch.gif" alt="Moon Bitcoin Cash"></a>
