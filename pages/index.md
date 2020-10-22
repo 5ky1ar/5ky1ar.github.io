@@ -23,7 +23,7 @@ Welcome to hell my friend, the website is still in development, so be patient
 <p style="text-align:center;">
 <a href="https://expressvpn.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/expressvpn.jpg" alt="Express VPN"></a>
 <a href="https://torguard.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/torguard.gif" alt="TorGuard VPN"></a>
-<a href="https://alphavpn.co"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/alphavpn.gif" alt="TorGuard VPN"></a>
+<a href="https://alphavpn.co"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/alphavpn.gif" alt="Alpha VPN"></a>
 <a href="https://mega.nz/aff=UXB8MCScN-s"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/meganz.png" alt="MEGA Cloud Storage"></a>
 <a href="https://xhosts.uk"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/xhosts.gif" alt="xHost"></a>
 <a href="https://pulseservers.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/pulseservers.gif" alt="xHost"></a>
