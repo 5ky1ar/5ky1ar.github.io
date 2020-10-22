@@ -25,8 +25,10 @@ Welcome to hell my friend, the website is still in development, so be patient
 <a href="https://torguard.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/torguard.gif" alt="TorGuard VPN"></a>
 <a href="https://alphavpn.co"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/alphavpn.gif" alt="TorGuard VPN"></a>
 <a href="https://mega.nz/aff=UXB8MCScN-s"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/meganz.png" alt="MEGA Cloud Storage"></a>
+<a href="https://xhosts.uk"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/xhosts.gif" alt="xHost"></a>
+<a href="https://pulseservers.com"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/pulseservers.gif" alt="xHost"></a>
 <a href="https://privatealps.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/privatealps.gif" alt="Private Alps Offshore VPS Hosting"></a>
-<a href="https://bullethost.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/bullethost.gif" alt="Private Alps Offshore VPS Hosting"></a>
+<a href="https://bullethost.net"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/bullethost.gif" alt="Bullet Host"></a>
 </p>
 
 # Social Media
