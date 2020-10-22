@@ -51,7 +51,7 @@ Welcome to hell my friend, the website is still in development, so be patient
 # Cool Stuff
 
 <ul>
-<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/privacytools.png" alt="PrivacyTools"> <a href="https://www.privacytools.io" target="_blank">PrivacyTools</a> - Encryption and tools to protect against global mass surveillance</li></p>
+<p><li><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/privacytools.png" alt="PrivacyTools"> <a href="https://privacytools.io" target="_blank">PrivacyTools</a> - Encryption and tools to protect against global mass surveillance</li></p>
 </ul>
 
 <p style="text-align:center;">
