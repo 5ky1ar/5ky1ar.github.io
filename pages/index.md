@@ -25,6 +25,7 @@ Welcome to hell my friend, the website is still in development, so be patient
 <a href="https://torguard.net" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/torguard.gif" alt="TorGuard VPN"></a>
 <a href="https://alphavpn.co" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/alphavpn.gif" alt="Alpha VPN"></a>
 <a href="https://mega.nz/aff=UXB8MCScN-s" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/meganz.png" alt="MEGA Cloud Storage"></a>
+<a href="https://cloudmitigation.net" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/cloudmitigation.gif" alt="Cloud Mitigation Hosting"></a>
 <a href="https://xhosts.uk" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/xhosts.gif" alt="xHost"></a>
 <a href="https://pulseservers.com" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/pulseservers.gif" alt="xHost"></a>
 <a href="https://privatealps.net" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/privatealps.gif" alt="Private Alps Offshore VPS Hosting"></a>
@@ -62,6 +63,7 @@ Welcome to hell my friend, the website is still in development, so be patient
 <a href="https://toolx.in" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/toolxin.gif" alt="Tool X"></a>
 <a href="https://h-gen.xyz" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/hgen.gif" alt="Account Generator"></a>
 <a href="https://xtremefish.rs" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/xtremefish.gif" alt="Runescape Phishing Panel"></a>
+<a href="https://ip-sniffer.xyz" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/ipsniffer.gif" alt="IP Sniffer"></a>
 <a href="https://ctrlhub.co" target="_blank"><img src="https://raw.githubusercontent.com/5ky1ar/5ky1ar.github.io/master/assets/img/ctrlhub.png" alt="CTRLhub - The Ultimate Tool Complex"></a>
 </p>
 
