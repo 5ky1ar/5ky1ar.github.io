@@ -1160,7 +1160,7 @@
   },
   "Parler": {
     "errorType": "status_code",
-    "url": "https://parler.com/user/{}/posts",
+    "url": "https://parler.com/profile/{}/posts",
     "urlMain": "https://parler.com/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
