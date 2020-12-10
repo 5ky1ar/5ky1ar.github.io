@@ -2222,6 +2222,13 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "mstdn.social": {
+    "errorType": "status_code",
+    "url": "https://mstdn.social/@{}",
+    "urlMain": "https://mstdn.social/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "nairaland.com": {
     "errorType": "status_code",
     "url": "https://www.nairaland.com/{}",
@@ -2309,6 +2316,13 @@
     "url": "https://satsis.info/user/{}",
     "urlMain": "https://satsis.info/",
     "username_claimed": "red",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "social.snopyta.org": {
+    "errorType": "status_code",
+    "url": "https://social.snopyta.org/@{}",
+    "urlMain": "https://social.snopyta.org/",
+    "username_claimed": "snopyta",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "social.tchncs.de": {
