@@ -246,6 +246,13 @@
     "username_claimed": "blue",
     "username_unclaimed": "xgtrq"
   },
+  "Byte": {
+    "errorType": "status_code",
+    "url": "https://byte.co/@{}",
+    "urlMain": "https://byte.co/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "CNET": {
     "errorType": "status_code",
     "url": "https://www.cnet.com/profiles/{}/",
@@ -1575,6 +1582,13 @@
     "errorType": "status_code",
     "url": "https://tellonym.me/{}",
     "urlMain": "https://tellonym.me/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Tiblar": {
+    "errorType": "status_code",
+    "url": "https://tiblar.com/{}",
+    "urlMain": "https://tiblar.com/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
