@@ -28,7 +28,7 @@
     "username_claimed": "hyprr",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Minds": {
+  "Minds (Broken)": {
     "errorType": "status_code",
     "url": "https://www.minds.com/{}",
     "urlMain": "https://www.minds.com/",
@@ -42,7 +42,7 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Parler": {
+  "Parler (Broken)": {
     "errorType": "response_url",
     "errorUrl": "https://parler.com/auth/access",
     "url": "https://parler.com/profile/{}/posts",
@@ -64,7 +64,7 @@
     "username_claimed": "sircmpwn",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Tiblar": {
+  "Tiblar (Broken)": {
     "errorType": "message",
     "errorMsg": "This page does not exist.",
     "url": "https://tiblar.com/{}",
