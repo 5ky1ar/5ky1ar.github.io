@@ -1462,6 +1462,13 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Sourcehut": {
+    "errorType": "status_code",
+    "url": "https://sr.ht/~{}",
+    "urlMain": "https://sr.ht/",
+    "username_claimed": "sircmpwn",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "SoylentNews": {
     "errorMsg": "The user you requested does not exist, no matter how much you wish this might be the case.",
     "errorType": "message",
